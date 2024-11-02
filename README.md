@@ -8,12 +8,12 @@ A multiplayer chess game using Node.js, Socket.io, and React.
 
 1. **Navigate to the Server Directory**:
    ```bash
-   cd /multiplayer-chess/server
+   cd /chess-multiplayer/server
    npm i
    npm start
 
 2. **Navigate to the Client Directory**:
    ```bash
-   cd /multiplayer-chess/client
+   cd /chess-multiplayer/client
    npm i
    npm start
